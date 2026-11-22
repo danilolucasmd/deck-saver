@@ -3,7 +3,7 @@ import { useEffect, useRef, useState } from "react";
 import { createPortal } from "react-dom";
 import { beginSaver, endSaver } from "./session";
 
-export const BLACK_SCREEN_ROUTE = "/deck-saver-decky/black";
+export const BLACK_SCREEN_ROUTE = "/deck-saver/black";
 
 // so releasing the button that opened it doesn't wake it
 const ARM_DELAY_MS = 600;

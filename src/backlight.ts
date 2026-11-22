@@ -1,7 +1,7 @@
 import { getDimBacklight } from "./settings";
 import { readStored, writeStored } from "./storage";
 
-const SAVED_KEY = "deck-saver-decky:savedBrightness";
+const SAVED_KEY = "deck-saver:savedBrightness";
 const DIMMED = 0;
 const DIMMED_TOLERANCE = 0.01;
 

@@ -1,5 +1,5 @@
-const DIM_KEY = "deck-saver-decky:dimBacklight";
-const PREVENT_SLEEP_KEY = "deck-saver-decky:preventSleep";
+const DIM_KEY = "deck-saver:dimBacklight";
+const PREVENT_SLEEP_KEY = "deck-saver:preventSleep";
 
 function readFlag(key: string): boolean {
   try {

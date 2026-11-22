@@ -1,7 +1,7 @@
 import { getPreventSleep } from "./settings";
 import { readStored, writeStored } from "./storage";
 
-const SAVED_KEY = "deck-saver-decky:savedIdleSuspend";
+const SAVED_KEY = "deck-saver:savedIdleSuspend";
 const IDLE_SUSPEND_SETTINGS = ["system_idle_suspend_battery_sec", "system_idle_suspend_ac_sec"];
 const NEVER = 0;
 
