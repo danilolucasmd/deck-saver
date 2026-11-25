@@ -2,6 +2,8 @@
 
 Decky Loader plugin to start the screensaver from the Quick Access Menu instead of waiting for the idle timer.
 
+<img width="1280" height="800" alt="20261124212834_1" src="https://github.com/user-attachments/assets/7a8a8c6d-f94a-4aad-a84d-51d0cebd3fed" />
+
 ## Features
 
 - Screensaver: starts whatever screensaver is selected in Steam's settings.
